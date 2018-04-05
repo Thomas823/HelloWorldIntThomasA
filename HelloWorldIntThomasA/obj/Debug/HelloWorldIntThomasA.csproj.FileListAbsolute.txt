@@ -1,0 +1,9 @@
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\bin\Debug\HelloWorldIntThomasA.exe.config
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\bin\Debug\HelloWorldIntThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\bin\Debug\HelloWorldIntThomasA.pdb
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.frmHelloWorldInt.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\HelloWorldIntThomasA\HelloWorldIntThomasA\obj\Debug\HelloWorldIntThomasA.pdb
